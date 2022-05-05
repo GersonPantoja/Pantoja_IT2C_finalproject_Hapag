@@ -33,6 +33,18 @@
 			</div>
 			<div class="content">
 				<h1>Home</h1>
+				<div class="description">
+					<?php
+
+						echo "Mabuhay! Feel free to browse to our Hapag Filipino dishes. There are mainly three categories to our easy";
+						echo "Filipino recipes that you can choose from; these Filipino recipes are categorized from Breakfast to Dinner ";
+						echo "and as well as some Filipino desserts that you will surely love. The reason for showcasing only the ";
+						echo "Filipino cuisine is that we want to show to the people who haven’t tried Filipino food or dishes ";
+						echo "that Filipino classic food is delicious and can be love by many, even to those people around the world.";
+						echo "We provide step by step instructions which will make learning Filipino dishes easy and guide ";
+						echo "people to cook more confidently for creating simple but delightful food.";
+					?>
+				</div>
 			</div>
 			<div class="right-side-bar">
 				
