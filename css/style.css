@@ -1,4 +1,23 @@
 body{
 
 	background-color: rgb(254, 205, 84);
+	font-family: Josefin Sans;
+	font-size: 16px;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+div.wrapper{
+
+	background-color: white;
+	width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+	border-top: 10px rgb(254, 205, 84);
+	border-bottom: 10px rgb(254, 205, 84) ;
+	border-left: 0px;
+	border-right: 0px;
+	border-style: solid;
+	box-shadow: 5px 10px 15px rgb(0, 0, 0, 0.15);
 }
