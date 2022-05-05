@@ -21,7 +21,7 @@
 			<center></ul>
 		</div>
 		<div class="banner">
-			
+			<img src="images/bannerhome.jpg">
 		</div>
 		<div class="main">
 			<div class="left-side-bar">
