@@ -10,14 +10,14 @@
 <body>
 	<div class="wrapper">
 		<div class="header">
-			<center><a href="index.html"><img src="images/logo.png" class="logo-img" title="logo"></a></center>
+			<center><a href="index.php"><img src="images/logo.png" class="logo-img" title="logo"></a></center>
 		</div>
 		<div class="nav">
 			<ul><center>
-				<li><a href="index.html">HOME</a></li>
-				<li><a href="recipes.html">RECIPES</a></li>
-				<li><a href="start.html">START HERE</a></li>
-				<li><a href="about.html">ABOUT</a></li>
+				<li><a href="index.php" class="active"><b>HOME</b></a></li>
+				<li><a href="recipes.php">RECIPES</a></li>
+				<li><a href="start.php">START HERE</a></li>
+				<li><a href="about.php">ABOUT</a></li>
 			<center></ul>
 		</div>
 		<div class="banner">
