@@ -53,8 +53,8 @@ div.nav ul li a{
 	text-decoration: none;
 	color: black;
 	margin-right: 100px;
-	padding: 10px;
-	transition: color 0.15s;
+	padding-left: 50px;
+	transition: color 1s;
 	transition: font-size 0.15s;	
 }
 
