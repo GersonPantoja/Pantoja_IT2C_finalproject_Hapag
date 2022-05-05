@@ -27,12 +27,12 @@
 			<div class="left-side-bar">
 				<h2><center>Content</center></h2>
 					<ul>
-						<li><a href="#" class="house">Home</a></li>
+						<li><a href="#home" class="house">Home</a></li>
 						<li><a href="#">Hapag Recipes</a></li>
 					</ul>
 			</div>
 			<div class="content">
-				<h1>Home</h1>
+				<h1 id="home">Home</h1>
 				<div class="description">
 					<?php
 
@@ -45,6 +45,10 @@
 						echo "people to cook more confidently for creating simple but delightful food.";
 					?>
 				</div>
+
+				<h1>Hapag Recipes</h1>
+				<img src="images/torta.png">
+				<h3><a href="#">Tortang Talong</a></h3>
 			</div>
 			<div class="right-side-bar">
 				

@@ -198,3 +198,8 @@ div.description{
 	color: rgb(58, 58, 58);
 }
 
+div.content img{
+
+	margin-top: 10px;
+	width: 100%;
+}
