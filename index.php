@@ -21,11 +21,15 @@
 			<center></ul>
 		</div>
 		<div class="banner">
-			<img src="images/bannerhome.jpg">
+			<img src="images/bannerhome.jpg" title="Pork Adobo">
 		</div>
 		<div class="main">
 			<div class="left-side-bar">
-				
+				<h2>Content</h2>
+					<ul>
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Hapag Recipes</a></li>
+					</ul>
 			</div>
 			<div class="content">
 				
