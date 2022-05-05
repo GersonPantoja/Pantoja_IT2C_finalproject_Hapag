@@ -33,3 +33,27 @@ div.header{
 	width: 250px;
 	cursor: pointer;
 }
+
+div.nav ul{
+
+	background-color: white;
+	margin: 0px;
+	padding: 10px 0;
+	box-shadow: 2px 2px 5px;
+}
+
+div.nav ul li{
+
+	list-style-type:  none;
+	display: inline-block;
+}
+
+div.nav ul li a{
+
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	margin-right: 50px;
+	padding: 10px;
+}
+
