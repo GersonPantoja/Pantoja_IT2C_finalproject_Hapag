@@ -25,9 +25,9 @@
 		</div>
 		<div class="main">
 			<div class="left-side-bar">
-				<h2>Content</h2>
+				<h2><center>Content</center></h2>
 					<ul>
-						<li><a href="#">Home</a></li>
+						<li><a href="#" class="house">Home</a></li>
 						<li><a href="#">Hapag Recipes</a></li>
 					</ul>
 			</div>

@@ -93,3 +93,48 @@ div.main{
 	min-height: 500px;
 	padding-top: 30px;
 }
+
+div.left-side-bar{
+
+	margin-top: 5px;
+	width: 195px;
+	height: 135px;
+	float: left;
+	border: 1px solid black;
+	margin: 10px 10px 10px 0px;
+
+}
+
+div.left-side-bar ul{
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+div.left-side-bar ul li a.house{
+
+	border-top: 1px solid black;
+}
+
+div.left-side-bar ul li{
+
+	margin: 0;
+	text-align: center;
+	border-bottom: 1px solid black;
+	line-height: 25px;
+
+}
+
+div.left-side-bar ul li a{
+
+	display: block;
+	width: 100%;
+	padding: 5px 0;
+	text-decoration: none;
+	text-align: center;
+	color: black;
+	background-color: white;
+
+}
+
