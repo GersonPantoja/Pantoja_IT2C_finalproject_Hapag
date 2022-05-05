@@ -169,5 +169,22 @@ div.left-side-bar ul li a:hover:before{
 	z-index: -1;
 }
 
+div.content{
 
+	width: 550px;
+	float: left;
+	min-height: 500px;
+	margin: 10px;
+}
+
+div.content h1{
+
+	padding-top: 12px;
+	margin:  0px;
+	font-family: Yeseva One;
+	text-align: center;
+	color: rgba(241, 172, 1);
+	font-size: 30px;
+	border-bottom: 1px solid darkgrey;
+}
 
