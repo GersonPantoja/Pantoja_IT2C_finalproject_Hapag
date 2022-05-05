@@ -10,7 +10,7 @@
 <body>
 	<div class="wrapper">
 		<div class="header">
-			
+			<center><a href="index.html"><img src="images/logo.png" class="logo-img"></a></center>
 		</div>
 		<div class="nav">
 			

@@ -21,3 +21,15 @@ div.wrapper{
 	border-style: solid;
 	box-shadow: 5px 10px 15px rgb(0, 0, 0, 0.15);
 }
+
+div.header{
+
+	padding: 20px;
+}
+
+.logo-img{
+
+	height: 200px;
+	width: 250px;
+	cursor: pointer;
+}
