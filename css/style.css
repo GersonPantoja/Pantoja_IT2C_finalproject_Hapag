@@ -202,4 +202,19 @@ div.content img{
 
 	margin-top: 10px;
 	width: 100%;
+	transition: opacity 1s;
+}
+
+div.content img:hover{
+
+	opacity: 0.91;
+}
+
+div.content h3 a{
+
+	text-decoration: none;
+	color: black;
+	font-family: Yeseva One;
+
+
 }

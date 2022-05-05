@@ -47,7 +47,7 @@
 				</div>
 
 				<h1>Hapag Recipes</h1>
-				<img src="images/torta.png">
+				<img src="images/torta.png" title="Tortang Talong">
 				<h3><a href="#">Tortang Talong</a></h3>
 			</div>
 			<div class="right-side-bar">
