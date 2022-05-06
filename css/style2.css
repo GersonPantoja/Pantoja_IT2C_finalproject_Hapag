@@ -53,6 +53,24 @@ div.wrapper-2{
 	box-shadow: 5px 10px 15px rgb(0, 0, 0, 0.15);
 }
 
+div.wrapper-3{
+
+	background-color: white;
+	width: 1000px;
+	height: 2720px;
+	margin: 0 auto;
+	padding: 20px;
+	border-top: 10px rgb(254, 205, 84);
+	border-bottom: 10px rgb(254, 205, 84) ;
+	border-left: 0px;
+	border-right: 0px;
+	border-style: solid;
+	box-shadow: 5px 10px 15px rgb(0, 0, 0, 0.15);
+}
+
+
+
+
 
 div.header{
 
@@ -149,6 +167,17 @@ div.left-side-bar-2{
 }
 
 div.left-side-bar-3{
+
+	margin-top: 5px;
+	width: 195px;
+	height: 170px;
+	float: left;
+	border: 1px solid black;
+	margin: 10px 10px 10px 0px;
+
+}
+
+div.left-side-bar-4{
 
 	margin-top: 5px;
 	width: 195px;
@@ -344,6 +373,70 @@ div.left-side-bar-3 ul li a:before{
 }
 
 div.left-side-bar-3 ul li a:hover:before{
+
+	transition: 0.5s all ease;
+	left: 0;
+	right: 0;
+	opacity: 1;
+	z-index: -1;
+}
+
+div.left-side-bar-4 ul{
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+div.left-side-bar-4 ul li a.breakfast{
+
+	border-top: 1px solid black;
+}
+
+div.left-side-bar-4 ul li{
+
+	margin: 0;
+	text-align: center;
+	border-bottom: 1px solid black;
+	line-height: 25px;
+
+}
+
+div.left-side-bar-4 ul li a{
+
+	display: block;
+	width: 100%;
+	padding: 5px 0;
+	text-decoration: none;
+	text-align: center;
+	color: black;
+	background-color: white;
+	transition: ease-out 0.3s;
+	position: relative;
+	z-index: 1;
+
+}
+
+div.left-side-bar-4 ul li a:hover{
+
+	color: white;
+	cursor: pointer;
+}
+
+div.left-side-bar-4 ul li a:before{
+
+	transition: 0.5s all ease;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	right: 50%;
+	bottom: 0;
+	opacity: 0;
+	content: "";
+	background-color: rgba(241, 172, 1);
+}
+
+div.left-side-bar-4 ul li a:hover:before{
 
 	transition: 0.5s all ease;
 	left: 0;
