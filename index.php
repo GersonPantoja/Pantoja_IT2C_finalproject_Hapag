@@ -62,11 +62,17 @@
 						echo "This are just the few Filino recipes that you will love to cook and eat. If you are interested to explore more recipes then go to our navigation and click recipes for more.";
 					?>
 				</div>
-				<button><a href="#">RECIPES</a></button>
+				<button><a href="#"><b>MORE RECIPES</b></a></button>
 
 			</div>
 			<div class="right-side-bar">
-
+				<ul>
+					<li><img src="images/tapsilog.jpg"></li>
+					<li><img src="images/halohalo.jpg"></li>
+					<li><img src="images/sinigang.jpg"></li>
+					<li><img src="images/bibingka.jpg"></li>
+					<li><img src="images/chopsuey.jpg"></li>
+				</ul>
 			</div>
 		</div>
 		<div class="footer">
