@@ -72,7 +72,7 @@
 				</div>
 				<button><a href="recipe3.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Daing na Bangus</a></h3>
+				<h3 title="Read more"><a href="recipe4.php">Daing na Bangus</a></h3>
 				<img src="images/daing.jpg" title="Daing na Bangus" class="bicol">
 				<div class="description">
 					<?php
@@ -80,9 +80,9 @@
 						echo "and a spicy vinegar dip. A piece of sunny-side-up fried egg is nice to have ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe4.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Bibingka</a></h3>
+				<h3 title="Read more"><a href="recipe5.php">Bibingka</a></h3>
 				<img src="images/bibingka.jpg" title="Bibingka" class="bicol">
 				<div class="description">
 					<?php
@@ -90,7 +90,7 @@
 						echo "Hot drinks, like coffee or chocolate, also make the ideal companion for this ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe5.php">See recipe</a></button>
 
 				<h2 id="lunch">Lunch</h2>
 				<div class="description">
