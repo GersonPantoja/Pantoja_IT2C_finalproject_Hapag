@@ -28,7 +28,7 @@
 				<h2><center>Content</center></h2>
 					<ul>
 						<li><a href="#home" class="house">Home</a></li>
-						<li><a href="#">Hapag Recipes</a></li>
+						<li><a href="#hapag recipes">Hapag Recipes</a></li>
 					</ul>
 			</div>
 			<div class="content">
@@ -46,12 +46,18 @@
 					?>
 				</div>
 
-				<h1>Hapag Recipes</h1>
+				<h1 id="hapag recipes">Hapag Recipes</h1>
 				<img src="images/torta.png" title="Tortang Talong">
-				<h3><a href="#">Tortang Talong</a></h3>
+				<h3 title="Read more"><center><a href="#">Tortang Talong</center></a></h3>
+				<img src="images/bicolexpress.png" title="Bicol Express" class="bicol">
+				<h3 title="Read more"><center><a href="#">Bicol Express</center></a></h3>
+				<img src="images/tinola.jpg" title="Tinolang Manok">
+				<h3 title="Read more"><center><a href="#">Tinolang Manok</center></a></h3>
+				<img src="images/turon.jpg" title="Turon">
+				<h3 title="Read more"><center><a href="#">Turon</center></a></h3>
+
 			</div>
 			<div class="right-side-bar">
-				
 			</div>
 		</div>
 		<div class="footer">

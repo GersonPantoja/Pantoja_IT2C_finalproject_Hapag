@@ -12,7 +12,7 @@ div.wrapper{
 
 	background-color: white;
 	width: 1000px;
-	height: 2000px;
+	height: 3500px;
 	margin: 0 auto;
 	padding: 20px;
 	border-top: 10px rgb(254, 205, 84);
@@ -216,6 +216,21 @@ div.content h3 a{
 	text-decoration: none;
 	color: black;
 	font-family: Yeseva One;
-
+	text-align: center;
+	transition: color 0.5s;
 
 }
+
+div.content h3 a:hover{
+
+	color: rgba(241, 172, 1);
+}
+
+div.content img.bicol{
+
+	height: 400px;
+}
+
+
+
+
