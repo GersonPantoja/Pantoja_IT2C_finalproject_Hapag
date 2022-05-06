@@ -231,6 +231,14 @@ div.content img.bicol{
 	height: 400px;
 }
 
+div.right-side-bar{
+	width: 180px;
+	float: right;
+	border: 1px solid black;
+	min-height: 50px;
+	margin: 10px 0px 10px 10px;
+}
+
 
 
 
