@@ -110,7 +110,7 @@
 				</div>
 				<button><a href="recipe6.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Sinigang</a></h3>
+				<h3 title="Read more"><a href="recipe7.php">Sinigang</a></h3>
 				<img src="images/sinigang.jpg" title="Sinigang" class="bicol">
 				<div class="description">
 					<?php
@@ -118,9 +118,9 @@
 						echo "The tamarind broth is something that brings a great uniqueness ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe7.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Kare-Kare</a></h3>
+				<h3 title="Read more"><a href="recipe8.php">Kare-Kare</a></h3>
 				<img src="images/karekare.jpg" title="Kare-Kare" class="bicol">
 				<div class="description">
 					<?php
@@ -128,9 +128,9 @@
 						echo "served during special occasions. The traditional recipe is composed of ox tail. There are ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe8.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Laing</a></h3>
+				<h3 title="Read more"><a href="recipe9.php">Laing</a></h3>
 				<img src="images/laing.jpg" title="Laing" class="bicol">
 				<div class="description">
 					<?php
@@ -138,16 +138,16 @@
 						echo "and dried for a few days before being cooked in coconut milk. Pork is a  ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe9.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Pinakbet</a></h3>
+				<h3 title="Read more"><a href="recipe10.php">Pinakbet</a></h3>
 				<img src="images/pinakbet.jpg" title="Pinakbet" class="bicol">
 				<div class="description">
 					<?php
 						echo "Pinakbet or Pakbet is a Filipino vegetable stew from the Ilocos region. Its name is derived from the Ilocano word pinakebbet which means ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe10.php">See recipe</a></button>
 
 				<h2 id="dinner">Dinner</h2>
 				<div class="description">
