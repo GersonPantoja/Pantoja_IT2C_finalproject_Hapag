@@ -67,11 +67,17 @@
 			</div>
 			<div class="right-side-bar">
 				<ul>
-					<li><img src="images/tapsilog.jpg"></li>
-					<li><img src="images/halohalo.jpg"></li>
-					<li><img src="images/sinigang.jpg"></li>
-					<li><img src="images/bibingka.jpg"></li>
-					<li><img src="images/chopsuey.jpg"></li>
+					<h5>Latest recipes</h5>
+					<li><img src="images/tapsilog.jpg" title="Tapsilog"></li>
+					<h4> Tapsilog </h4>
+					<li><img src="images/halohalo.jpg" class="halohalo" title="Halo-Halo"></li>
+					<h4> Halo-Halo </h4>
+					<li><img src="images/sinigang.jpg" title="Sinigang"></li>
+					<h4> Sinigang </h4>
+					<li><img src="images/bibingka.jpg" title="Bibingka"></li>
+					<h4> Bibingka </h4>
+					<li><img src="images/chopsuey.jpg" title="Chop Suey"></li>
+					<h4> Chop Suey </h4>
 				</ul>
 			</div>
 		</div>

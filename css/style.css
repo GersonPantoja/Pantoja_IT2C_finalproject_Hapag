@@ -289,4 +289,43 @@ div.content button a:hover{
 	color: white;
 }
 
+div.right-side-bar ul{
+
+	margin: 0;
+	padding: 20px;
+}
+
+div.right-side-bar ul li{
+
+	list-style-type: none;
+
+}
+
+div.right-side-bar ul li img{
+
+	width: 100%;
+	padding-bottom: 10px;
+	transition: opacity 0.5s;
+}
+
+div.right-side-bar ul li img:hover{
+
+	opacity: 0.8;
+}
+
+div.right-side-bar ul h5{
+
+	font-family: Josefin Sans;
+	color: rgb(80, 80, 80);
+}
+
+div.right-side-bar ul li img.halohalo{
+
+	height: 142px;
+}
+
+div.right-side-bar ul h4{
+
+	margin-top: 1px;
+}
 
