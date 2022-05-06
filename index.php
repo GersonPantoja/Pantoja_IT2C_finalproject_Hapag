@@ -83,6 +83,17 @@
 		</div>
 		<div class="footer">
 			<p><b>&copy; 2022 Hapag: Filipino Cuisine and Recipe <br/> Gerson O. Pantoja Masiga, Gasan, Marinduque - Philippines <br/> Tel No. 0923 1343 342. All rights reserved.</b></p>
+
+			<div class="icons">
+				<ul><center>
+					<a href="#"><img src="images/icons/facebook.png"></a>
+					<a href="#"><img src="images/icons/instagram.png"></a>
+					<a href="#"><img src="images/icons/pinterest.png"></a>
+					<a href="#"><img src="images/icons/youtube.png"></a>
+				</center></ul>
+			</div>
+			
+
 		</div>
 	</div>
 
