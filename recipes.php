@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="css/style2.css">
 </head>
 <body>
-	<div class="wrapper">
+	<div class="wrapper-1">
 		<div class="header">
 			<center><a href="index.php"><img src="images/logo.png" class="logo-img" title="logo"></a></center>
 		</div>
@@ -42,7 +42,7 @@
 						echo "It's the start of a day full of good food, from lunch, and dinner, and top it all off, the dessert.";
 					?>
 				</div>
-				<h3 title="Read more"><a href="#">Tapsilog</a></h3>
+				<h3 title="Read more"><a href="recipe1.php">Tapsilog</a></h3>
 				<img src="images/tapsilog.jpg" title="Tapsilog" class="bicol">
 				<div class="description">
 					<?php
@@ -50,7 +50,7 @@
 						echo "Tapa refers to beef tapa. This are fried marinated ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe1.php">See recipe</a></button>
 
 				<h3 title="Read more"><a href="#">Arroz Caldo</a></h3>
 				<img src="images/arrozcaldo.jpg" title="Arroz Caldo" class="bicol">
