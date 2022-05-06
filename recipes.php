@@ -14,25 +14,27 @@
 		</div>
 		<div class="nav">
 			<ul><center>
-				<li><a href="index.php" class="active"><b>HOME</b></a></li>
-				<li><a href="recipes.php">RECIPES</a></li>
+				<li><a href="index.php">HOME</a></li>
+				<li><a href="recipes.php" class="active"><b>RECIPES</b></a></li>
 				<li><a href="start.php">START HERE</a></li>
 				<li><a href="about.php">ABOUT</a></li>
 			<center></ul>
 		</div>
 		<div class="banner">
-			<img src="images/bannerhome.jpg" title="Pork Adobo">
+			<img src="images/bannerrecipe.jpg" title="Pork Adobo">
 		</div>
 		<div class="main">
-			<div class="left-side-bar">
+			<div class="left-side-bar-2">
 				<h2><center>Content</center></h2>
 					<ul>
-						<li><a href="#home" class="house">Home</a></li>
-						<li><a href="#hapag recipes">Hapag Recipes</a></li>
+						<li><a href="#breakfast" class="breakfast">Breakfast</a></li>
+						<li><a href="#lunch">Lunch</a></li>
+						<li><a href="#dinner" class="house">Dinner</a></li>
+						<li><a href="#dessert">Dessert</a></li>
 					</ul>
 			</div>
 			<div class="content">
-				<h1 id="home">Home</h1>
+				<h1 id="home">Recipes</h1>
 			</div>
 			<div class="right-side-bar">
 				<ul>
