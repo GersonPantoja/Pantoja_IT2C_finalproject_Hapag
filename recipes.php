@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE-edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Hapag - Filipino Cuisine and Recipes</title>
-	<link rel="stylesheet" href="css/style2.css">
+	<link rel="stylesheet" href="css/style3.css">
 </head>
 <body>
 	<div class="wrapper-1">
@@ -100,7 +100,7 @@
 					?>
 				</div>
 
-				<h3 title="Read more"><a href="#">Adobo</a></h3>
+				<h3 title="Read more"><a href="recipe6.php">Pork Adobo</a></h3>
 				<img src="images/adobo.jpg" title="Pork Adobo" class="bicol">
 				<div class="description">
 					<?php
@@ -108,7 +108,7 @@
 						echo "A plus for this dish is that it surely does not take away any of the clearly ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe6.php">See recipe</a></button>
 
 				<h3 title="Read more"><a href="#">Sinigang</a></h3>
 				<img src="images/sinigang.jpg" title="Sinigang" class="bicol">
