@@ -91,6 +91,64 @@
 					?>
 				</div>
 				<button><a href="#">See recipe</a></button>
+
+				<h2 id="lunch">Lunch</h2>
+				<div class="description">
+					<?php
+						echo "Be prepare as well as your taste buds because these filipino lunch recipes are in the line of savory as well as healthy. These recipes will surely bring joy to you.";
+						echo "Even though some recipe is a bit difficult but it will be worth it. ";
+					?>
+				</div>
+
+				<h3 title="Read more"><a href="#">Adobo</a></h3>
+				<img src="images/adobo.jpg" title="Pork Adobo" class="bicol">
+				<div class="description">
+					<?php
+						echo "Being familiar with a well-loved and popular dish often leads us to turn to the same classic recipe all of the time.";
+						echo "A plus for this dish is that it surely does not take away any of the clearly ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Sinigang</a></h3>
+				<img src="images/sinigang.jpg" title="Sinigang" class="bicol">
+				<div class="description">
+					<?php
+						echo "One of the most beloved and familiar Filipino dishes out there, sinigang introduces a great balance of warmth and sourness.";
+						echo "The tamarind broth is something that brings a great uniqueness ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Kare-Kare</a></h3>
+				<img src="images/karekare.jpg" title="Kare-Kare" class="bicol">
+				<div class="description">
+					<?php
+						echo "Kare Kare is a type of Filipino stew with a rich and thick peanut sauce. It is a popular dish in the Philippines";
+						echo "served during special occasions. The traditional recipe is composed of ox tail. There are ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Laing</a></h3>
+				<img src="images/laing.jpg" title="Laing" class="bicol">
+				<div class="description">
+					<?php
+						echo "Laing na Gabi or simply Laing is a type of Filipino vegetable dish. Taro leaves are sliced ";
+						echo "and dried for a few days before being cooked in coconut milk. Pork is a  ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Pinakbet</a></h3>
+				<img src="images/pinakbet.jpg" title="Pinakbet" class="bicol">
+				<div class="description">
+					<?php
+						echo "Pinakbet or Pakbet is a Filipino vegetable stew from the Ilocos region. Its name is derived from the Ilocano word pinakebbet which means ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
 			</div>
 			<div class="right-side-bar">
 				<ul>
