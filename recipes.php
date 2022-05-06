@@ -149,6 +149,122 @@
 				</div>
 				<button><a href="#">See recipe</a></button>
 
+				<h2 id="dinner">Dinner</h2>
+				<div class="description">
+					<?php
+						echo "For Filipinos, it does not matter what would be the dinner as long as there is rice in the table every dish or food pair with it will be a proper dinner for them.";
+						echo "The following dishes are few of the common dishes that filipino eat for dinner";
+					?>
+				</div>
+
+				<h3 title="Read more"><a href="#">Tinolang Manok</a></h3>
+				<img src="images/tinola.jpg" title="Tinolang Manok" class="bicol">
+				<div class="description">
+					<?php
+						echo "Chicken Tinola is a Filipino soup dish. It involves cooking chicken pieces in ginger broth. It is a popular cold weather dish.";
+						echo "I always feel warm and cozy every time I eat it. This Filipino Chicken Soup...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Beef Mechado</a></h3>
+				<img src="images/beefmechado.jpg" title="Beef Mechado" class="bicol">
+				<div class="description">
+					<?php
+						echo "Chicken Tinola is a Filipino soup dish. It involves cooking chicken pieces in ginger broth. It is a popular cold weather dish.";
+						echo "I always feel warm and cozy every time I eat it. This Filipino Chicken Soup...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Chop Suey</a></h3>
+				<img src="images/chopsuey.jpg" title="Chop Suey" class="bicol">
+				<div class="description">
+					<?php
+						echo "Chop Suey is a stir-fried vegetable dish that is cooked with meats such as chicken and pork. Shrimp and seafood can also be added.";
+						echo "This chop suey recipe is special because it has almost every ingredient ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Bicol Express</a></h3>
+				<img src="images/bicolexpress.png" title="Bicol Express" class="bicol">
+				<div class="description">
+					<?php
+						echo "The mild sweetness of coconut milk brings a sense of delight to the sharp notes of chili pepper and bagoong in the classic Bicol Express recipe.";
+						echo "This contrast has long created a spell-binding richness in taste for the dish. And this has  ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Lumpiang Shanghai</a></h3>
+				<img src="images/lumpia.jpg" title="Lumpiang Shanghai" class="bicol">
+				<div class="description">
+					<?php
+						echo "Lumpia or Lumpiang Shanghai is a type of Filipino egg roll. The basic filling is composed of ground pork along with minced onions, ";
+						echo "carrots, and seasonings such as salt and ground black pepper. ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h2 id="dessert">Dessert</h2>
+				<div class="description">
+					<?php
+						echo "Like any other cuisine, every meal are not complete if there is no dessert. You know what they say about dessert? There is always room for dessert.";
+						echo "Feast your eyes and tastebuds on these heartwarming and soul-soothing Filipino desserts!";
+					?>
+				</div>
+
+				<h3 title="Read more"><a href="#">Halo-Halo</a></h3>
+				<img src="images/halohalo.jpg" title="Halo-Halo" class="bicol">
+				<div class="description">
+					<?php
+						echo "Halo halo is a famous dessert in the Philippines. It is composed of various ingredients that are all mixed together, along with shaved ice and evaporated milk.";
+						echo "Some of he common ingredient used to make Halo halo are sugar ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Leche Flan</a></h3>
+				<img src="images/lecheflan.jpg" title="Halo-Halo" class="bicol">
+				<div class="description">
+					<?php
+						echo "Leche Flan is a dessert made-up of eggs and milk with a soft caramel on top. It resembles crème caramel ";
+						echo "and caramel custard. This delicious dessert is known throughout the world.It has been a regular item ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Turon</a></h3>
+				<img src="images/turon.jpg" title="Turon" class="bicol">
+				<div class="description">
+					<?php
+						echo "Turon is a type of Filipino snack. It is also called deep-fried banana rolls or banana lumpia. A typical Filipino";
+						echo "meryenda and dessert, Turon has gained popularity throughout the years. This sweet snack ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Ginataang Bilo-Bilo</a></h3>
+				<img src="images/bilobilo.jpg" title="Halo-Halo" class="bicol">
+				<div class="description">
+					<?php
+						echo "Ginataang Bilo-bilo with Langka is a Filipino snack dish. It is composed of glutinous rice balls (locally known as bilo-bilo), ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+				<h3 title="Read more"><a href="#">Fruit Salad (Filipino Style)</a></h3>
+				<img src="images/fruitsalad.jpg" title="Fruit Salad (Filipino Style)" class="bicol">
+				<div class="description">
+					<?php
+						echo "Pinoy Fruit Salad is a quick and easy dessert perfect for the warm weather. This dish makes use of canned fruit cocktail ...";
+					?>
+				</div>
+				<button><a href="#">See recipe</a></button>
+
+
+
 			</div>
 			<div class="right-side-bar">
 				<ul>
