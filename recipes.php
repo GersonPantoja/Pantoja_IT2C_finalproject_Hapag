@@ -62,7 +62,7 @@
 				</div>
 				<button><a href="recipe2.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Tortang Talong</a></h3>
+				<h3 title="Read more"><a href="recipe3.php">Tortang Talong</a></h3>
 				<img src="images/torta.png" title="Tortang Talong" class="bicol">
 				<div class="description">
 					<?php
@@ -70,7 +70,7 @@
 						echo ", it is endlessly versatile, and goes with both sweet and savory ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe3.php">See recipe</a></button>
 
 				<h3 title="Read more"><a href="#">Daing na Bangus</a></h3>
 				<img src="images/daing.jpg" title="Daing na Bangus" class="bicol">
