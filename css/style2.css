@@ -307,6 +307,7 @@ div.right-side-bar ul li img{
 	width: 100%;
 	padding-bottom: 10px;
 	transition: opacity 0.5s;
+	box-shadow: 1px 1px 5px;
 }
 
 div.right-side-bar ul li img:hover{
@@ -327,7 +328,7 @@ div.right-side-bar ul li img.halohalo{
 
 div.right-side-bar ul h4{
 
-	margin-top: 1px;
+	margin-top: 5px;
 }
 
 div.footer{
