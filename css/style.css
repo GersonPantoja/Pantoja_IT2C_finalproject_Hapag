@@ -231,14 +231,62 @@ div.content img.bicol{
 	height: 400px;
 }
 
-div.right-side-bar{
-	width: 180px;
-	float: right;
-	border: 1px solid black;
-	min-height: 50px;
-	margin: 10px 0px 10px 10px;
+div.content h3.turon{
+
+	border-bottom: 1px solid darkgrey;
+	padding-bottom: 10px;
 }
 
 
+div.right-side-bar{
+	width: 205px;
+	float: right;
+	min-height: 50px;
+	margin: 10px 0px 10px 10px;
+	background-color: rgb(255, 236, 189);
+}
+
+div.description-2{
+
+	margin-top: 15px;
+	text-align: justify;
+	line-height: 1.5;
+	text-indent: 50px;
+	font-size: 20px;
+	color: rgb(58, 58, 58);
+}
+
+div.content button{
+
+	margin-top: 20px;
+	color: black;
+	height: 36px;
+	width: 550px;
+	background-color: white;
+	border: 1px solid rgb(254, 172, 1);
+	transition: background-color 0.5s;
+	cursor: pointer;
+}
+
+div.content button a{
+
+	text-decoration: none;
+	color: black;
+	font-family: Josefin Sans;
+	font-size: 20px;
+	transition: color 0.5s;
+}
+
+div.content button:hover{
+
+	background-color: rgb(254, 172, 1);
+	color: white;
+}
+
+div.content button a:hover{
+
+	
+	color: white;
+}
 
 

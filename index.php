@@ -54,10 +54,19 @@
 				<img src="images/tinola.jpg" title="Tinolang Manok">
 				<h3 title="Read more"><center><a href="#">Tinolang Manok</center></a></h3>
 				<img src="images/turon.jpg" title="Turon">
-				<h3 title="Read more"><center><a href="#">Turon</center></a></h3>
+				<h3 title="Read more" class="turon"><center><a href="#">Turon</center></a></h3>
+
+				<div class="description-2">
+					<?php
+
+						echo "This are just the few Filino recipes that you will love to cook and eat. If you are interested to explore more recipes then go to our navigation and click recipes for more.";
+					?>
+				</div>
+				<button><a href="#">RECIPES</a></button>
 
 			</div>
 			<div class="right-side-bar">
+
 			</div>
 		</div>
 		<div class="footer">
