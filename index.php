@@ -62,7 +62,7 @@
 						echo "This are just the few Filino recipes that you will love to cook and eat. If you are interested to explore more recipes then go to our navigation and click recipes for more.";
 					?>
 				</div>
-				<button><a href="#"><b>MORE RECIPES</b></a></button>
+				<button><a href="recipes.php"><b>MORE RECIPES</b></a></button>
 
 			</div>
 			<div class="right-side-bar">
