@@ -47,13 +47,13 @@
 
 				<h1 id="hapag recipes">Hapag Recipes</h1>
 				<img src="images/torta.png" title="Tortang Talong">
-				<h3 title="Read more"><center><a href="#">Tortang Talong</center></a></h3>
+				<h3 title="Read more"><center><a href="recipe3.php">Tortang Talong</center></a></h3>
 				<img src="images/bicolexpress.png" title="Bicol Express" class="bicol">
-				<h3 title="Read more"><center><a href="#">Bicol Express</center></a></h3>
+				<h3 title="Read more"><center><a href="recipe14.php">Bicol Express</center></a></h3>
 				<img src="images/tinola.jpg" title="Tinolang Manok">
-				<h3 title="Read more"><center><a href="#">Tinolang Manok</center></a></h3>
+				<h3 title="Read more"><center><a href="recipe11.php">Tinolang Manok</center></a></h3>
 				<img src="images/turon.jpg" title="Turon">
-				<h3 title="Read more" class="turon"><center><a href="#">Turon</center></a></h3>
+				<h3 title="Read more" class="turon"><center><a href="recipe18.php">Turon</center></a></h3>
 
 				<div class="description-2">
 					<?php
@@ -69,7 +69,7 @@
 				<ul>
 					<h5>Latest recipes</h5>
 					<li><img src="images/tapsilog.jpg" title="Tapsilog"></li>
-					<h4> Tapsilog </h4>
+					<h4>Tapsilog </h4>
 					<li><img src="images/halohalo.jpg" class="halohalo" title="Halo-Halo"></li>
 					<h4> Halo-Halo </h4>
 					<li><img src="images/sinigang.jpg" title="Sinigang"></li>
@@ -86,10 +86,10 @@
 
 			<div class="icons">
 				<ul><center>
-					<a href="#"><img src="images/icons/facebook.png"></a>
-					<a href="#"><img src="images/icons/instagram.png"></a>
-					<a href="#"><img src="images/icons/pinterest.png"></a>
-					<a href="#"><img src="images/icons/youtube.png"></a>
+					<a href="https://web.facebook.com/login/?_rdc=1&_rdr"><img src="images/icons/facebook.png"></a>
+					<a href="https://www.instagram.com/?hl=en"><img src="images/icons/instagram.png"></a>
+					<a href="https://www.pinterest.ph/"><img src="images/icons/pinterest.png"></a>
+					<a href="https://www.youtube.com/"><img src="images/icons/youtube.png"></a>
 				</center></ul>
 			</div>
 			

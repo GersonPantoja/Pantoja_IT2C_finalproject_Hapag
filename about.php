@@ -46,7 +46,7 @@
 				</div>
 
 				<img src="images/boodle.jpg" title="boodle fight">
-				<h2> Feel free to Contact Us in our social media platforms! </h2>
+				<h2> Feel free to Contact us in our social media platforms! </h2>
 
 				
 			</div>
@@ -71,10 +71,10 @@
 
 			<div class="icons">
 				<ul><center>
-					<a href="#"><img src="images/icons/facebook.png"></a>
-					<a href="#"><img src="images/icons/instagram.png"></a>
-					<a href="#"><img src="images/icons/pinterest.png"></a>
-					<a href="#"><img src="images/icons/youtube.png"></a>
+					<a href="https://web.facebook.com/login/?_rdc=1&_rdr"><img src="images/icons/facebook.png"></a>
+					<a href="https://www.instagram.com/?hl=en"><img src="images/icons/instagram.png"></a>
+					<a href="https://www.pinterest.ph/"><img src="images/icons/pinterest.png"></a>
+					<a href="https://www.youtube.com/"><img src="images/icons/youtube.png"></a>
 				</center></ul>
 			</div>
 			
