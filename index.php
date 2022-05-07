@@ -16,7 +16,6 @@
 			<ul><center>
 				<li><a href="index.php" class="active"><b>HOME</b></a></li>
 				<li><a href="recipes.php">RECIPES</a></li>
-				<li><a href="start.php">START HERE</a></li>
 				<li><a href="about.php">ABOUT</a></li>
 			<center></ul>
 		</div>
