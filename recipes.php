@@ -215,7 +215,7 @@
 					?>
 				</div>
 
-				<h3 title="Read more"><a href="#">Halo-Halo</a></h3>
+				<h3 title="Read more"><a href="recipe16.php">Halo-Halo</a></h3>
 				<img src="images/halohalo.jpg" title="Halo-Halo" class="bicol">
 				<div class="description">
 					<?php
@@ -223,9 +223,9 @@
 						echo "Some of he common ingredient used to make Halo halo are sugar ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe16.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Leche Flan</a></h3>
+				<h3 title="Read more"><a href="recipe17.php">Leche Flan</a></h3>
 				<img src="images/lecheflan.jpg" title="Halo-Halo" class="bicol">
 				<div class="description">
 					<?php
@@ -233,9 +233,9 @@
 						echo "and caramel custard. This delicious dessert is known throughout the world.It has been a regular item ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe17.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Turon</a></h3>
+				<h3 title="Read more"><a href="recipe18.php">Turon</a></h3>
 				<img src="images/turon.jpg" title="Turon" class="bicol">
 				<div class="description">
 					<?php
@@ -243,25 +243,25 @@
 						echo "meryenda and dessert, Turon has gained popularity throughout the years. This sweet snack ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe18.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Ginataang Bilo-Bilo</a></h3>
+				<h3 title="Read more"><a href="recipe19.php">Ginataang Bilo-Bilo</a></h3>
 				<img src="images/bilobilo.jpg" title="Halo-Halo" class="bicol">
 				<div class="description">
 					<?php
 						echo "Ginataang Bilo-bilo with Langka is a Filipino snack dish. It is composed of glutinous rice balls (locally known as bilo-bilo), ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe19.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Fruit Salad (Filipino Style)</a></h3>
+				<h3 title="Read more"><a href="recipe20.php">Fruit Salad (Filipino Style)</a></h3>
 				<img src="images/fruitsalad.jpg" title="Fruit Salad (Filipino Style)" class="bicol">
 				<div class="description">
 					<?php
 						echo "Pinoy Fruit Salad is a quick and easy dessert perfect for the warm weather. This dish makes use of canned fruit cocktail ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe20.php">See recipe</a></button>
 
 
 
