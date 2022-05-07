@@ -157,7 +157,7 @@
 					?>
 				</div>
 
-				<h3 title="Read more"><a href="#">Tinolang Manok</a></h3>
+				<h3 title="Read more"><a href="recipe11.php">Tinolang Manok</a></h3>
 				<img src="images/tinola.jpg" title="Tinolang Manok" class="bicol">
 				<div class="description">
 					<?php
@@ -165,9 +165,9 @@
 						echo "I always feel warm and cozy every time I eat it. This Filipino Chicken Soup...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe11.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Beef Mechado</a></h3>
+				<h3 title="Read more"><a href="recipe12.php">Beef Mechado</a></h3>
 				<img src="images/beefmechado.jpg" title="Beef Mechado" class="bicol">
 				<div class="description">
 					<?php
@@ -175,9 +175,9 @@
 						echo "I always feel warm and cozy every time I eat it. This Filipino Chicken Soup...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe12.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Chop Suey</a></h3>
+				<h3 title="Read more"><a href="recipe13.php">Chop Suey</a></h3>
 				<img src="images/chopsuey.jpg" title="Chop Suey" class="bicol">
 				<div class="description">
 					<?php
@@ -185,9 +185,9 @@
 						echo "This chop suey recipe is special because it has almost every ingredient ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe13.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Bicol Express</a></h3>
+				<h3 title="Read more"><a href="recipe14.php">Bicol Express</a></h3>
 				<img src="images/bicolexpress.png" title="Bicol Express" class="bicol">
 				<div class="description">
 					<?php
@@ -195,9 +195,9 @@
 						echo "This contrast has long created a spell-binding richness in taste for the dish. And this has  ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe14.php">See recipe</a></button>
 
-				<h3 title="Read more"><a href="#">Lumpiang Shanghai</a></h3>
+				<h3 title="Read more"><a href="recipe15.php">Lumpiang Shanghai</a></h3>
 				<img src="images/lumpia.jpg" title="Lumpiang Shanghai" class="bicol">
 				<div class="description">
 					<?php
@@ -205,7 +205,7 @@
 						echo "carrots, and seasonings such as salt and ground black pepper. ...";
 					?>
 				</div>
-				<button><a href="#">See recipe</a></button>
+				<button><a href="recipe15.php">See recipe</a></button>
 
 				<h2 id="dessert">Dessert</h2>
 				<div class="description">
