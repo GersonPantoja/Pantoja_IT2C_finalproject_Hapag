@@ -1,2 +1,51 @@
 <?xml version="1.0" encoding="UTF-8">
 
+<html>
+
+	<head>
+		<charset>UTF-8</charset>
+		<title>Hapag-Filipino Cuisine and Recipes</title>
+		<link>
+			<relation>stylesheet</relation>
+			<href>css/style.css</href>
+		</link>
+	</head>
+
+	<body>
+		<wrapper>
+			<header></header>
+			<navigation>
+				<nav-items>
+					<item></item>
+					<item></item>
+					<item></item>
+				</nav-items>
+			</navigation>
+			<banner></banner>
+			<main>
+				<l-sidebar>
+
+				<l-sidebar>
+
+				<content>
+					<description>
+						
+					</description>					
+				</content>
+
+				<r-sidebar>
+					<img-list>
+						
+					</img-list>
+				</r-sidebar>
+			</main>
+			<footer>
+				<icons>
+					
+				</icons>
+			</footer>
+			
+		</wrapper>
+	</body>
+
+</html>

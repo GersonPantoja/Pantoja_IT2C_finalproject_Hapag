@@ -35,8 +35,8 @@
 					<?php
 
 						echo "Mabuhay! Welcome To Hapag, My name is Gerson O. Pantoja and I live in Masiga, Gasan, Marinduque but I am ";
-						echo "currently residing with my auntie in Cawit, Boac, Marinduque due to internet connectivity which help me";
-						echo "to do online class. I am a 2nd year college student studying at Marinduque State College pursuing";
+						echo "currently residing with my auntie in Cawit, Boac, Marinduque due to internet connectivity which help me ";
+						echo "to do online class. I am a 2nd year college student studying at Marinduque State College pursuing ";
 						echo "Bachelor of Science in Information Technology.", "<br/>";
 						echo "<br/>";
 						echo "Since I love food and our project is about website, it brings me in creating this food recipe website but";
@@ -53,15 +53,15 @@
 			<div class="right-side-bar">
 				<ul>
 					<h5>Latest recipes</h5>
-					<li><img src="images/tapsilog.jpg" title="Tapsilog"></li>
+					<li><a href="recipe1.php"><img src="images/tapsilog.jpg" title="Tapsilog"></a></li>
 					<h4> Tapsilog </h4>
-					<li><img src="images/halohalo.jpg" class="halohalo" title="Halo-Halo"></li>
+					<li><a href="recipe16.php"><img src="images/halohalo.jpg" class="halohalo" title="Halo-Halo"></a></li>
 					<h4> Halo-Halo </h4>
-					<li><img src="images/sinigang.jpg" title="Sinigang"></li>
+					<li><a href="recipe7.php"><img src="images/sinigang.jpg" title="Sinigang"></a></li>
 					<h4> Sinigang </h4>
-					<li><img src="images/bibingka.jpg" title="Bibingka"></li>
+					<li><a href="recipe5.php"><img src="images/bibingka.jpg" title="Bibingka"></a></li>
 					<h4> Bibingka </h4>
-					<li><img src="images/chopsuey.jpg" title="Chop Suey"></li>
+					<li><a href="recipe13.php"><img src="images/chopsuey.jpg" title="Chop Suey"></a></li>
 					<h4> Chop Suey </h4>
 				</ul>
 			</div>
