@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8">
+<?xml version="1.0" encoding="UTF-8" ?>
 
 <html>
 
@@ -13,39 +13,195 @@
 
 	<body>
 		<wrapper>
-			<header></header>
+			<header>
+				<logo-img>
+					<href link="index.php">
+						<images title="logo">
+							<png>logo</png>
+						</images>
+					</href>
+				</logo-img>
+			</header>
 			<navigation>
 				<nav-items>
-					<item></item>
-					<item></item>
-					<item></item>
+					<u-list>
+						<active>
+							<item link="index.php">HOME</item>
+						</active>
+						<item link="recipes.php">RECIPES</item>
+						<item link="about.php">ABOUT</item>
+					</u-list>
 				</nav-items>
 			</navigation>
-			<banner></banner>
+			<banner>
+				<img>
+					<images title="Pork Adobo">
+						<jpg>bannerhome</jpg>
+					</images>
+				</img>
+			</banner>
 			<main>
 				<l-sidebar>
-
-				<l-sidebar>
+					<header id="2">Content</header>
+					<u-list>
+						<list>Home</list>
+						<list>Hapag Recipes</list>
+					</u-list>
+				</l-sidebar>
 
 				<content>
+					<header id="1">Home</header>
 					<description>
-						
-					</description>					
+						<echo>
+							Mabuhay! Feel free to browse to our Hapag Filipino dishes. There are mainly three categories to our easy. Filipino recipes that you can choose from; these Filipino recipes are categorized from Breakfast to Dinner and as well as some Filipino desserts that you will surely love. The reason for showcasing only the Filipino cuisine is that we want to show to the people who haven’t tried Filipino food or dishes that Filipino classic food is delicious and can be love by many, even to those people around the world. We provide step by step instructions which will make learning Filipino dishes easy and guide people to cook more confidently for creating simple but delightful food.
+						</echo>
+					</description>
+					<header id="1">
+						<name>Hapag Recipes</name>
+					</header>
+					<img pic="1">
+						<images title="Tortang Talong">
+							<png>torta</png>
+						</images>
+					</img>
+					<header id="3">
+						<href link="recipe3.php">
+							<name title="Read more">
+								Tortang Talong
+							</name>
+						</href>
+					</header>
+					<img pic="2">
+						<images title="Bicol Express">
+							<png>bicolexpress</png>
+						</images>
+					</img>
+					<header id="3">
+						<href link="recipe14.php">
+							<name title="Read more">
+								Bicol Express
+							</name>
+						</href>
+					</header>
+					<img pic="3">
+						<images title="Tinolang Manok">
+							<jpg>tinola</jpg>
+						</images>
+					</img>
+					<header id="3">
+						<href link="recipe11.php">
+							<name title="Read more">
+								Tinolang Manok
+							</name>
+						</href>
+					</header>
+					<img pic="4">
+						<images title="Turon">
+							<jpg>turon</jpg>
+						</images>
+					</img>
+					<header id="3" >
+						<href link="recipe18.php">
+							<name title="Read more">
+								Turon
+							</name>
+						</href>
+					</header>
+					<description-2>
+						<echo>
+							This are just the few Filino recipes that you will love to cook and eat. If you are interested to explore more recipes then go to our navigation and click recipes for more.
+						</echo>
+					</description-2>
+					<button>
+						<href link="recipes.php">
+							<name>MORE RECIPES</name>
+						</href>
+					</button>										
 				</content>
 
 				<r-sidebar>
 					<img-list>
-						
+						<header id="5">Latest Recipes</header>
+						<list>
+							<href link="recipe1.php">
+								<images>
+									<jpg>tapsilog</jpg>
+								</images>
+							</href>
+						</list>
+						<header id="4">Tapsilog</header>
+						<list>
+							<href link="recipe16.php">
+								<images>
+									<jpg>halohalo</jpg>
+								</images>
+							</href>
+						</list>
+						<header id="4">Halo-Halo</header>
+						<list>
+							<href link="recipe7.php">
+								<images>
+									<jpg>sinigang</jpg>
+								</images>
+							</href>
+						</list>
+						<header id="4">Sinigang</header>
+						<list>
+							<href link="recipe5.php">
+								<images>
+									<jpg>bibingka</jpg>
+								</images>
+							</href>
+						</list>
+						<header id="4">Bibingka</header>
+						<list>
+							<href link="recipe13.php">
+								<images>
+									<jpg>chopsuey</jpg>
+								</images>
+							</href>
+						</list>
+						<header id="4">Chop Suey</header>
 					</img-list>
 				</r-sidebar>
 			</main>
 			<footer>
+				<paragraph style="bold">
+					2022 Hapag: Filipino Cuisine and Recipe Gerson O. Pantoja Masiga, Gasan, Marinduque - Philippines Tel No. 0923 1343 342. All rights reserved.
+				</paragraph>
 				<icons>
-					
+					<u-list>
+						<href h-link="https://web.facebook.com/login/?_rdc=1_rdr">
+							<images>
+								<icons>
+									<png>facebook</png>
+								</icons>
+							</images>
+						</href>
+						<href h-link="https://www.instagram.com/?hl=en">
+							<images>
+								<icons>
+									<png>instagram</png>
+								</icons>
+							</images>
+						</href>
+						<href h-link="https://www.pinterest.ph/">
+							<images>
+								<icons>
+									<png>pinterest</png>
+								</icons>
+							</images>
+						</href>
+						<href h-link="https://www.youtube.com/">
+							<images>
+								<icons>
+									<png>youtube</png>
+								</icons>
+							</images>
+						</href>
+					</u-list>
 				</icons>
 			</footer>
-			
 		</wrapper>
 	</body>
-
 </html>
