@@ -1,5 +1,98 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html [
+	
+	<!ELEMENT html (head, body)>
+	<!ELEMENT head (charset, title, link)>
+	<!ELEMENT link (relation, href)>
+	<!ELEMENT body (wrapper)>
 
+	<!ELEMENT wrapper (header, navigation, banner, main, footer)>
+	<!ELEMENT header (logo-img, href, images)>
+	<!ELEMENT images (png)>
+
+	<!ELEMENT navigation (nav-items)>
+	<!ELEMENT nav-items (u-list)>
+	<!ELEMENT u-list (active, item)>
+	<!ELEMENT active (item)>
+
+	<!ELEMENT banner (img)>
+	<!ELEMENT img (images)>
+	<!ELEMENT images (jpg)>
+
+	<!ELEMENT main (l-sidebar, content, r-sidebar)>
+	<!ELEMENT l-sidebar (heading, u-list)>
+	<!ELEMENT u-list (list)>
+
+	<!ELEMENT content (heading, description, description-2, img, button)>
+	<!ELEMENT heading (name)>
+
+	<!ELEMENT description (echo)>
+	<!ELEMENT img (images)>
+	<!ELEMENT images (png)>
+	<!ELEMENT heading (href)>
+	<!ELEMENT href (name)>
+
+	<!ELEMENT description-2 (echo)>
+	<!ELEMENT button (href)>
+	<!ELEMENT href (name)>
+
+	<!ELEMENT r-sidebar (img-list)>
+	<!ELEMENT img-list (heading, list)>
+	<!ELEMENT list (href)>
+	<!ELEMENT images (jpg)>
+
+	<!ELEMENT footer (paragraph, icons)>
+	<!ELEMENT icons (u-list)>
+	<!ELEMENT u-list (href)>
+	<!ELEMENT href (images)>
+	<!ELEMENT images (icons)>
+	<!ELEMENT icons (png)>
+
+	<!ELEMENT head (#PCDATA)>
+	<!ELEMENT body (#PCDATA)>
+	<!ELEMENT charset (#PCDATA)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT link (#PCDATA)>
+	<!ELEMENT relation (#PCDATA)>
+	<!ELEMENT href (#PCDATA)>
+	<!ELEMENT wrapper (#PCDATA)>
+	<!ELEMENT header (#PCDATA)>
+	<!ELEMENT navigation (#PCDATA)>
+	<!ELEMENT banner (#PCDATA)>
+	<!ELEMENT main (#PCDATA)>
+	<!ELEMENT footer (#PCDATA)>
+	<!ELEMENT logo-img (#PCDATA)>
+	<!ELEMENT images (#PCDATA)>
+	<!ELEMENT png (#PCDATA)>
+	<!ELEMENT nav-items (#PCDATA)>
+	<!ELEMENT u-list (#PCDATA)>
+	<!ELEMENT active (#PCDATA)>
+	<!ELEMENT item (#PCDATA)>
+	<!ELEMENT img (#PCDATA)>
+	<!ELEMENT jpg (#PCDATA)>
+	<!ELEMENT l-sidebar (#PCDATA)>
+	<!ELEMENT content (#PCDATA)>
+	<!ELEMENT r-sidebar (#PCDATA)>
+	<!ELEMENT heading (#PCDATA)>
+	<!ELEMENT list (#PCDATA)>
+	<!ELEMENT description (#PCDATA)>
+	<!ELEMENT description-2 (#PCDATA)>
+	<!ELEMENT button (#PCDATA)>
+	<!ELEMENT echo (#PCDATA)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT img-list (#PCDATA)>
+	<!ELEMENT paragraph (#PCDATA)>
+	<!ELEMENT icons (#PCDATA)>
+
+	<!ATTLIST href link CDATA #REQUIRED>
+	<!ATTLIST images title CDATA #REQUIRED>
+	<!ATTLIST item link CDATA #REQUIRED>
+	<!ATTLIST heading id CDATA #REQUIRED>
+	<!ATTLIST img pic CDATA #REQUIRED>
+	<!ATTLIST paragraph style CDATA #REQUIRED>
+	<!ATTLIST href h-link CDATA #REQUIRED>
+
+]>
 <html>
 	<head>
 		<charset>UTF-8</charset>
