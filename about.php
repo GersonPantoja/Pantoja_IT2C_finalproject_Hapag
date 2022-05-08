@@ -52,17 +52,17 @@
 			</div>
 			<div class="right-side-bar">
 				<ul>
-					<h5>Latest recipes</h5>
-					<li><a href="recipe1.php"><img src="images/tapsilog.jpg" title="Tapsilog"></a></li>
+					<h5>Must try desserts</h5>
+					<li><a href="recipe17.php"><img src="images/dessert.jpg" title="Leche Flan"></a></li>
 					<h4> Tapsilog </h4>
 					<li><a href="recipe16.php"><img src="images/halohalo.jpg" class="halohalo" title="Halo-Halo"></a></li>
 					<h4> Halo-Halo </h4>
-					<li><a href="recipe7.php"><img src="images/sinigang.jpg" title="Sinigang"></a></li>
-					<h4> Sinigang </h4>
-					<li><a href="recipe5.php"><img src="images/bibingka.jpg" title="Bibingka"></a></li>
-					<h4> Bibingka </h4>
-					<li><a href="recipe13.php"><img src="images/chopsuey.jpg" title="Chop Suey"></a></li>
-					<h4> Chop Suey </h4>
+					<li><a href="recipe18.php"><img src="images/turon.jpg" title="Turon"></a></li>
+					<h4> Turon </h4>
+					<li><a href="recipe19.php"><img src="images/bilobilo.jpg" title="Ginataang Bilo-Bilo"></a></li>
+					<h4> Ginataang Bilo-Bilo </h4>
+					<li><a href="recipe20.php"><img src="images/fruitsalad.jpg" title="Fruit Salad (Filipino Style)"></a></li>
+					<h4> Fruit Salad (Filipino Style) </h4>
 				</ul>
 			</div>
 		</div>
