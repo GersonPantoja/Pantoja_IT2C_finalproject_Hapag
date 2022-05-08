@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <html>
-
 	<head>
 		<charset>UTF-8</charset>
 		<title>Hapag-Filipino Cuisine and Recipes</title>
@@ -42,7 +41,7 @@
 			</banner>
 			<main>
 				<l-sidebar>
-					<header id="2">Content</header>
+					<heading id="2">Content</heading>
 					<u-list>
 						<list>Home</list>
 						<list>Hapag Recipes</list>
@@ -50,63 +49,63 @@
 				</l-sidebar>
 
 				<content>
-					<header id="1">Home</header>
+					<heading id="1">Home</heading>
 					<description>
 						<echo>
 							Mabuhay! Feel free to browse to our Hapag Filipino dishes. There are mainly three categories to our easy. Filipino recipes that you can choose from; these Filipino recipes are categorized from Breakfast to Dinner and as well as some Filipino desserts that you will surely love. The reason for showcasing only the Filipino cuisine is that we want to show to the people who haven’t tried Filipino food or dishes that Filipino classic food is delicious and can be love by many, even to those people around the world. We provide step by step instructions which will make learning Filipino dishes easy and guide people to cook more confidently for creating simple but delightful food.
 						</echo>
 					</description>
-					<header id="1">
+					<heading id="1">
 						<name>Hapag Recipes</name>
-					</header>
+					</heading>
 					<img pic="1">
 						<images title="Tortang Talong">
 							<png>torta</png>
 						</images>
 					</img>
-					<header id="3">
+					<heading id="3">
 						<href link="recipe3.php">
 							<name title="Read more">
 								Tortang Talong
 							</name>
 						</href>
-					</header>
+					</heading>
 					<img pic="2">
 						<images title="Bicol Express">
 							<png>bicolexpress</png>
 						</images>
 					</img>
-					<header id="3">
+					<heading id="3">
 						<href link="recipe14.php">
 							<name title="Read more">
 								Bicol Express
 							</name>
 						</href>
-					</header>
+					</heading>
 					<img pic="3">
 						<images title="Tinolang Manok">
 							<jpg>tinola</jpg>
 						</images>
 					</img>
-					<header id="3">
+					<heading id="3">
 						<href link="recipe11.php">
 							<name title="Read more">
 								Tinolang Manok
 							</name>
 						</href>
-					</header>
+					</heading>
 					<img pic="4">
 						<images title="Turon">
 							<jpg>turon</jpg>
 						</images>
 					</img>
-					<header id="3" >
+					<heading id="3" >
 						<href link="recipe18.php">
 							<name title="Read more">
 								Turon
 							</name>
 						</href>
-					</header>
+					</heading>
 					<description-2>
 						<echo>
 							This are just the few Filino recipes that you will love to cook and eat. If you are interested to explore more recipes then go to our navigation and click recipes for more.
@@ -121,7 +120,7 @@
 
 				<r-sidebar>
 					<img-list>
-						<header id="5">Latest Recipes</header>
+						<heading id="5">Latest Recipes</heading>
 						<list>
 							<href link="recipe1.php">
 								<images>
@@ -129,7 +128,7 @@
 								</images>
 							</href>
 						</list>
-						<header id="4">Tapsilog</header>
+						<heading id="4">Tapsilog</heading>
 						<list>
 							<href link="recipe16.php">
 								<images>
@@ -137,7 +136,7 @@
 								</images>
 							</href>
 						</list>
-						<header id="4">Halo-Halo</header>
+						<heading id="4">Halo-Halo</heading>
 						<list>
 							<href link="recipe7.php">
 								<images>
@@ -145,7 +144,7 @@
 								</images>
 							</href>
 						</list>
-						<header id="4">Sinigang</header>
+						<heading id="4">Sinigang</heading>
 						<list>
 							<href link="recipe5.php">
 								<images>
@@ -153,7 +152,7 @@
 								</images>
 							</href>
 						</list>
-						<header id="4">Bibingka</header>
+						<heading id="4">Bibingka</heading>
 						<list>
 							<href link="recipe13.php">
 								<images>
@@ -161,7 +160,7 @@
 								</images>
 							</href>
 						</list>
-						<header id="4">Chop Suey</header>
+						<heading id="4">Chop Suey</heading>
 					</img-list>
 				</r-sidebar>
 			</main>
