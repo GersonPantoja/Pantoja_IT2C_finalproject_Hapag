@@ -20,7 +20,7 @@
 			<center></ul>
 		</div>
 		<div class="banner">
-			<img src="images/bannerabout.jpg" title="Pork Adobo">
+			<img src="images/bannerabout.jpg">
 		</div>
 		<div class="main">
 			<div class="left-side-bar-23">
@@ -54,7 +54,7 @@
 				<ul>
 					<h5>Must try desserts</h5>
 					<li><a href="recipe17.php"><img src="images/dessert.jpg" title="Leche Flan"></a></li>
-					<h4> Tapsilog </h4>
+					<h4> Leche Flan </h4>
 					<li><a href="recipe16.php"><img src="images/halohalo.jpg" class="halohalo" title="Halo-Halo"></a></li>
 					<h4> Halo-Halo </h4>
 					<li><a href="recipe18.php"><img src="images/turon.jpg" title="Turon"></a></li>
