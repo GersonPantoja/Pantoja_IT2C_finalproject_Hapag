@@ -170,8 +170,8 @@
 				<img src="images/beefmechado.jpg" title="Beef Mechado" class="bicol">
 				<div class="description">
 					<?php
-						echo "Chicken Tinola is a Filipino soup dish. It involves cooking chicken pieces in ginger broth. It is a popular cold weather dish.";
-						echo "I always feel warm and cozy every time I eat it. This Filipino Chicken Soup...";
+						echo "Beef Mechado is a delicious tomato-based stew that pairs perfectly with a warm cup of rice. It is hearty and filling, and its taste can bring back the comfort of home. ";
+						echo "The sauce can be made from chopped ripe tomato or...";
 					?>
 				</div>
 				<button><a href="recipe12.php">See recipe</a></button>
@@ -262,8 +262,6 @@
 				</div>
 				<button><a href="recipe20.php">See recipe</a></button>
 
-
-
 			</div>
 			<div class="right-side-bar">
 				<ul>
@@ -282,7 +280,6 @@
 			</div>
 		</div>
 		<div class="footer">
-			
 			<p><b>&copy; 2022 Hapag: Filipino Cuisine and Recipe <br/> Gerson O. Pantoja Masiga, Gasan, Marinduque - Philippines <br/> Tel No. 0923 1343 342. All rights reserved.</b></p>
 
 			<div class="icons">

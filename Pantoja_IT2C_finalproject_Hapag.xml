@@ -157,6 +157,7 @@
 	<!ELEMENT icon (#PCDATA)>
 	<!ELEMENT pic-name (#PCDATA)>
 	<!ELEMENT pic-format (#PCDATA)>
+	
 	<!-- The attributes -->
 	<!ATTLIST href link CDATA #REQUIRED>
 	<!ATTLIST images title CDATA #REQUIRED>
